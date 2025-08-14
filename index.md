@@ -1,10 +1,10 @@
 ---
 layout: base
-title: I'm [Your Full Name]
+title: I'm [Aditya Srivastava]
 hide: true
 ---
 
-Hi! My name is 🐤 John C Mortensen
+Hi! My name is 🐄 Aditya Srivastava
 
 ### Development Environment
 
