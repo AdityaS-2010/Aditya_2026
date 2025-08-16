@@ -6,6 +6,12 @@ hide: true
 
 Hi! My name is Aditya Srivastava, I like making projects, cars, and video games. 
 
+| Role         | Name     | Repo Location                       | Stream                | Repo Name |
+|--------------|----------|-------------------------------------|-----------------------|-----------|
+| Scrum Master | John     | github.com/jm1021/student           | upstream (OCS fork)   | student   |
+| Scrummer     | Torin    | github.com/torin/student            | downstream (fork)     | student   |
+| Scrummer     | Avantika | github.com/avantika/student         | downstream (fork)     | student   |
+| Scrummer     | Aadit    | github.com/aaadit/student           | downstream (fork)     | student   |
 
 <h3 id="otherWorkToggle1" style="cursor:pointer; user-select:none;">Development Environment</h3>
 <div id="otherWorkSection1" style="display:none;">
