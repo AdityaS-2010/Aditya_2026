@@ -45,7 +45,7 @@ Hi! My name is 🐄 Aditya Srivastava
     
 </div>
 
-### 
+
 > Check out my work from last year!
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -57,7 +57,7 @@ Hi! My name is 🐄 Aditya Srivastava
 
 <div>
 
-### 
+
 
 
 
