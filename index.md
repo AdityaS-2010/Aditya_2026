@@ -25,7 +25,7 @@ Hi! My name is 🐄 Aditya Srivastava
     </a>
 </div>
 
-<br>
+
 
 ### Class Progress
 
@@ -42,9 +42,24 @@ Hi! My name is 🐄 Aditya Srivastava
             Turtle
         </div>
     </a>
+    
 </div>
 
-<br>
+### 
+> Check out my work from last year!
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <a href="https://adityas-2010.github.io/Aditya_2025/" style="text-decoration: none;">
+        <div style="background-color: #0026ffff; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Last year Website
+        </div>
+    </a>
+
+<div>
+
+### 
+
+
 
 <!-- Contact Section -->
 ### Get in Touch
@@ -52,3 +67,4 @@ Hi! My name is 🐄 Aditya Srivastava
 > Feel free to reach out if you'd like to collaborate or learn more about our work.
 
 <p style="color: #2A7DB1;">Open Coding Society: <a href="https://opencodingsociety.com" style="color: #2A7DB1; text-decoration: underline;">Socials</a></p>
+
