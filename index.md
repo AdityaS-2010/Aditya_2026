@@ -42,44 +42,44 @@ Hi! My name is 🐄 Aditya Srivastava
             Turtle
         </div>
     </a>
-    
 </div>
 
+---
 
+### <span id="otherWorkToggle" style="cursor:pointer; user-select:none;">**Check out my work from last year**</span>
 
-<h3 id="otherWorkToggle" style="cursor:pointer; user-select:none;">My other work</h3>
 <div id="otherWorkSection" style="display:none;">
-    <p>Check out my work from last year!</p>
-    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-            <a href="https://adityas-2010.github.io/Aditya_2025/" style="text-decoration: none;">
-                    <div style="background-color: #0026ffff; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
-                            Last years Website
-                    </div>
-            </a>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+        <a href="https://adityas-2010.github.io/Aditya_2025/" style="text-decoration: none;">
+            <div style="background-color: #0026ff; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+                Last Year's Website
+            </div>
+        </a>
     </div>
-    <p>My Github Profile!</p>
+    <p style="margin-top: 1rem;">My Github Profile!</p>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-            <a href="https://github.com/AdityaS-2010" style="text-decoration: none;">
-                    <div style="background-color: #0026ffff; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
-                            Last years Website
-                    </div>
-            </a>
+        <a href="https://github.com/AdityaS-2010" style="text-decoration: none;">
+            <div style="background-color: #0026ff; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+                My Repo
+            </div>
+        </a>
     </div>
 </div>
+
 <script>
     document.getElementById('otherWorkToggle').onclick = function() {
         var sec = document.getElementById('otherWorkSection');
-        sec.style.display = sec.style.display === 'none' ? 'block' : 'none';
+        sec.style.display = (sec.style.display === 'none' ? 'block' : 'none');
     };
 </script>
 
+---
 
-
-
-<!-- Contact Section -->
 ### Get in Touch
 
 > Feel free to reach out if you'd like to collaborate or learn more about our work.
 
-<p style="color: #2A7DB1;">Open Coding Society: <a href="https://opencodingsociety.com" style="color: #2A7DB1; text-decoration: underline;">Socials</a></p>
+<p style="color: #2A7DB1;">Open Coding Society: 
+<a href="https://opencodingsociety.com" style="color: #2A7DB1; text-decoration: underline;">Socials</a></p>
+
 
