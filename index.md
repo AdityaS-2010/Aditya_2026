@@ -46,17 +46,32 @@ Hi! My name is 🐄 Aditya Srivastava
 </div>
 
 
-> Check out my work from last year!
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <a href="https://adityas-2010.github.io/Aditya_2025/" style="text-decoration: none;">
-        <div style="background-color: #0026ffff; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
-            Last year Website
-        </div>
-    </a>
-
-<div>
-
+<h3 id="otherWorkToggle" style="cursor:pointer; user-select:none;">My other work</h3>
+<div id="otherWorkSection" style="display:none;">
+    <p>Check out my work from last year!</p>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+            <a href="https://adityas-2010.github.io/Aditya_2025/" style="text-decoration: none;">
+                    <div style="background-color: #0026ffff; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+                            Last years Website
+                    </div>
+            </a>
+    </div>
+    <p>My Github Profile!</p>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+            <a href="https://github.com/AdityaS-2010" style="text-decoration: none;">
+                    <div style="background-color: #0026ffff; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+                            Last years Website
+                    </div>
+            </a>
+    </div>
+</div>
+<script>
+    document.getElementById('otherWorkToggle').onclick = function() {
+        var sec = document.getElementById('otherWorkSection');
+        sec.style.display = sec.style.display === 'none' ? 'block' : 'none';
+    };
+</script>
 
 
 
