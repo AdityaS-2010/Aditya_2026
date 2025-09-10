@@ -1,14 +1,16 @@
 ---
+#YML definition of metdadata for file, used by GH pages
 layout: base
 title: Background with Object
 description: Use JavaScript to have an in motion background.
+# these are the locations of images in this game
 sprite: images/platformer/sprites/flying-ufo.png
 background: images/platformer/backgrounds/alien_planet1.jpg
 permalink: /background
 ---
-
+<!-- HTML for where the Game is stored -->
 <canvas id="world"></canvas>
-
+<!-- JS logic for the game -->
 <script>
   const canvas = document.getElementById("world");
   const ctx = canvas.getContext('2d');
@@ -112,3 +114,5 @@ permalink: /background
     const world = new GameWorld(backgroundImg, spriteImg);
     world.start();
   }
+  
+</script>
