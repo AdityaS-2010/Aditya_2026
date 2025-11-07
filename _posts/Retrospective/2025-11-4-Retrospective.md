@@ -19,7 +19,11 @@ Overall I've changed a lot in how I approach the challenges given to me, from ju
 
 ## 2. Remember key things from 3 sprints (Tools, Fundamentals of JavaScript/Python, West Coast Travel or Digital Famine)
 
-*Write your reflection here...*
+A key thing I remember from Sprint 1 (Tools) was the pop quiz we had to prove we could run make, and since I was in CSSE I had no issues with it but I saw other people struggling. The main thing I remember from that sprint was helping other people with their setups after the quiz. A lot of people had issues that I've never seen before but even I learnt something new after helping them debug their setup and it made me realize how much teaching can help you learn.
+
+From Fundamentals of JS/Python the key thing I remember was working with new people. I got put into a new group with people I was not very familiar with, but through these lessons and communicating with them, I learnt how to work with a new team.
+
+In Digital Famine what I remember the most was organizing tasks as a team and splitting tasks up so we could quickly finish before N@TM. 
 
 ## 3. N@tM
 
