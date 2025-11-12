@@ -11,4 +11,6 @@ progress
 newspaper3k
 wikipedia
 emoji
-lxml_html_clean
+lxml_html_cleanFlask==2.3.3
+flask-cors==6.0.1
+Flask-RESTful==0.3.10
